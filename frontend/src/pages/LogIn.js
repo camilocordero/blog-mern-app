@@ -71,7 +71,7 @@ const LogIn = () => {
                                 "& .MuiInputBase-root": {
                                     color: 'text.secondary',
                                 },
-                                fieldset: { borderColor: "rgb(231, 235, 240)" }
+                                fieldset: { borderColor: "yellow" }
                             }}
                             fullWidth
                             id="email"
